@@ -1,0 +1,2 @@
+- Switched the beta transcription backend to Doubao by default for saved recordings.
+- Aligned live dictation with the shared transcription provider so Doubao can power both recordings and hold-to-talk dictation unless a realtime override is configured.

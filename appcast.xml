@@ -3,24 +3,13 @@
     <channel>
         <title>Zound Beta</title>
         <item>
-            <title>1.2026.512-2</title>
-            <pubDate>Tue, 12 May 2026 19:35:48 +0800</pubDate>
-            <sparkle:version>2026051202</sparkle:version>
-            <sparkle:shortVersionString>1.2026.512-2</sparkle:shortVersionString>
+            <title>1.2026.513-1</title>
+            <pubDate>Wed, 13 May 2026 05:04:48 +0800</pubDate>
+            <sparkle:version>2026051301</sparkle:version>
+            <sparkle:shortVersionString>1.2026.513-1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-beta-updates/Zound-Beta-1.2026.512-2-2026051202.md</sparkle:releaseNotesLink>
-            <enclosure url="https://zolplay-labs.github.io/zound-beta-updates/Zound-Beta-1.2026.512-2-2026051202.zip" length="4508952" type="application/octet-stream" sparkle:edSignature="x479UJ6Z4jer2w6kYZqPGWMh8bOFcsTr/QF8Prrxa89lKjqZ2s1w/WWGdBaWvlUMxSFQ+wxshJ/vqPKGG9fgAg=="/>
-            <sparkle:deltas>
-                <enclosure url="https://zolplay-labs.github.io/zound-beta-updates/Zound%20Beta2026051202-2026051201.delta" sparkle:deltaFrom="2026051201" length="321054" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="TvtBN1W4Q4B8JCVmQe2OENeALYo4d+thfpTH+cfKSo4dbsS52pDOxAyKG6tW6r6/kfafDAUO4Rdnq5RiHR/qBw=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.2026.512-1</title>
-            <pubDate>Tue, 12 May 2026 16:41:14 +0800</pubDate>
-            <sparkle:version>2026051201</sparkle:version>
-            <sparkle:shortVersionString>1.2026.512-1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://zolplay-labs.github.io/zound-beta-updates/Zound-Beta-1.2026.512-1-2026051201.zip" length="4574397" type="application/octet-stream" sparkle:edSignature="15bG25AStMAV6Kv7GXYD1ih1QdPWJmht/Za9aD9RFDYRijoKUsqEwf2BjuxlvCCdtf0b/yx0FSYbeIOFUTn3Ag=="/>
+            <sparkle:releaseNotesLink>https://zolplay-labs.github.io/zound-beta-updates/Zound-Beta-1.2026.513-1-2026051301.md</sparkle:releaseNotesLink>
+            <enclosure url="https://zolplay-labs.github.io/zound-beta-updates/Zound-Beta-1.2026.513-1-2026051301.zip" length="4631869" type="application/octet-stream" sparkle:edSignature="PDZ7/YeJzVpkoPTZ+aQ5khLT0iQi8LqruTjXt66DXWcihun7k0Z/uUcmOz03Qg0yCno7Ipzf7Dha3Srx+E+lBA=="/>
         </item>
     </channel>
 </rss>
