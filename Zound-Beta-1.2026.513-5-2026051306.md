@@ -1,0 +1,1 @@
+- Fixed dictation island colors so light mode uses a light capsule with dark controls, and dark mode uses a dark capsule with light controls.
