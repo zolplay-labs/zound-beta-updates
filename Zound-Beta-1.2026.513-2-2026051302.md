@@ -1,0 +1,3 @@
+- Fixed the dictation pill hover state so cancel and confirm controls no longer flicker under the pointer.
+- Refined the dictation pill layout so the app icon and status icon sit at the outer edges while the hover timer stays centered.
+- Redesigned Dictionary settings with a clearer editor, usage limit feedback, and a visible automatic-save state.
