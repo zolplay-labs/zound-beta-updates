@@ -1,1 +1,0 @@
-- Fixed the dictation island so its SwiftUI content is attached to the floating panel instead of creating an invisible blank panel.

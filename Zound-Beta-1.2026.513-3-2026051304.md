@@ -1,2 +1,0 @@
-- Fixed dictation shortcuts so Fn, modifier keys, and custom hotkeys reliably trigger after updates or permission resets.
-- Dictation shortcuts now also work while Zound Settings is frontmost, without firing while recording a new custom hotkey.
