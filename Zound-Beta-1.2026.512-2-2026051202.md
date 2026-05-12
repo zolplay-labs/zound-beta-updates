@@ -1,0 +1,5 @@
+- Fixed Activation Mode in Dictation settings so the selected mode stays saved instead of snapping back.
+- Added Left Control + Space support through custom dictation hotkeys, with Delete clearing the current shortcut recording.
+- Made the dictation island a compact pill with hover controls to cancel or confirm dictation and a running timer.
+- Added a setting to keep the dictation pill fixed at the bottom center or show it near the active input box.
+- Moved Dictionary into its own Settings tab right after General for faster access.
