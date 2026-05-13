@@ -1,2 +1,0 @@
-- Fixed realtime dictation finalization so the last words stay intact when the provider sends multiple final chunks after you stop speaking.
-- Refined the dictation pill hover controls so the cancel and confirm buttons sit evenly inside the capsule.

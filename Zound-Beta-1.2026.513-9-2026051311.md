@@ -1,0 +1,3 @@
+- Added Dictation History so you can review recent dictation results, replay the captured audio, and re-transcribe entries when needed.
+- Fixed dictation tail handling so the final words are preserved more reliably when a session ends.
+- Refined dictation island states and Dictionary settings feedback for clearer recording, processing, and saved states.
