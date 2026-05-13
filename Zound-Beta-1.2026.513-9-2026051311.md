@@ -1,3 +1,5 @@
-- Added Dictation History so you can review recent dictation results, replay the captured audio, and re-transcribe entries when needed.
-- Fixed dictation tail handling so the final words are preserved more reliably when a session ends.
-- Refined dictation island states and Dictionary settings feedback for clearer recording, processing, and saved states.
+- Added Dictation History to review, replay, copy, delete, and re-transcribe past dictations, including failed or timed-out sessions.
+- Added Dictation History settings for saving audio and automatic cleanup.
+- Improved long dictations so trailing speech is less likely to be cut off while finishing.
+- Refined the dictation island with a clearer error state, a cleaner live waveform, and a smaller animated processing state.
+- The Context Dictionary editor now grows as you add longer content.
