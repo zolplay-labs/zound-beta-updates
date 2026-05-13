@@ -1,0 +1,5 @@
+- Fixed phantom spaces inside Chinese and Japanese dictation transcripts so realtime providers no longer split words mid-sentence (for example, "星 期三" now stays as "星期三"). Korean, Latin, and digit boundaries are preserved.
+- Dictation history, the transcript draft caption, and the Recent Recordings menu now show human-readable relative dates like "just now", "5m ago", or "2d ago". Hover any entry to see the full absolute timestamp.
+- Empty dictations from very brief hotkey taps or silent moments are now silently dismissed for the first two in a row — no error pill, no history row. A third consecutive empty still surfaces the error so a genuinely broken setup announces itself.
+- Improved the dictation island appearance on macOS 26 glass so its content tones follow the visible backdrop rather than only the system appearance, staying readable on both Light and Dark wallpapers.
+- Localized the menu bar "Dictation History…" item in Simplified Chinese.
