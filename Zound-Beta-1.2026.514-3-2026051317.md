@@ -1,0 +1,5 @@
+- Fixed recording startup so microphone checks no longer interrupt an active recording.
+- Improved audio capture so recordings handle device and timing hiccups more reliably.
+- Improved dictation spacing so words and phrases stay separated naturally.
+- Added clearer error reports so we can spot and fix Zound problems faster.
+- Fixed a menu issue that could make Zound feel stuck or repeat an action.

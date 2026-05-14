@@ -1,5 +1,0 @@
-- Renamed Library to Transcripts and made it the main place for completed recordings and archived live-caption sessions.
-- Recording details now open in the transcript draft view, with export in the toolbar and editable recording titles.
-- Dictation History is now Dictations across the app, with matching menu-bar grouping and cleaner toolbar actions.
-- Fixed English dictation spacing so natural phrases like "right now", "I'm just", and "trying to" stay separated.
-- Live-vs-final transcript comparisons now highlight changed words, making review differences easier to scan.
