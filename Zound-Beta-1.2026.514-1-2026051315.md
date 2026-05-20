@@ -1,0 +1,8 @@
+- Added a unified Library window that brings completed recordings and archived live-caption sessions into a single home, with filters, search, and quick navigation between linked items.
+- Added a live-vs-final transcript comparison view: when a caption session is captured during a recording, you can now see the live captions and the final transcript side by side once processing finishes. Open Linked Recording jumps straight to the parent from a caption.
+- Added automatic silence trimming for finished recordings. Leading and trailing silence is removed during save (with a small safety pad). Skipped when savings would be negligible or the file is fully silent. Toggle this from General settings (on by default); dictation audio is untouched.
+- Added activate and processing sound cues for dictation and recording so you get audible feedback when a session starts and when transcription finishes. Toggle from General settings (on by default).
+- Live caption sessions are now automatically archived when you close the translator panel, so captions are no longer dropped on the floor when the panel is dismissed.
+- Closing the live-captions panel now fully tears down the translator session — no more lingering processing in the background.
+- Fixed phantom spaces inside English dictation transcripts so subword splits no longer land as gaps inside a single word.
+- Refined the Dictation History toolbar layout for clearer replay, copy, delete, and re-transcribe actions.

@@ -1,0 +1,4 @@
+- Fixed hold-to-talk dictation so the final words are preserved when the realtime provider closes or times out after sending transcript text.
+- Improved selected-microphone recording so external microphones that are quiet or briefly silent still capture correctly instead of being treated as unavailable.
+- Added bounded recovery for realtime dictation sessions so a broken connection cannot leave Zound stuck while stopping or reconnecting.
+- Improved the realtime dictation gateway so beta builds handle upstream failures more reliably.

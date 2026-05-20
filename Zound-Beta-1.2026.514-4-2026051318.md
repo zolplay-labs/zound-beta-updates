@@ -1,2 +1,0 @@
-- Fixed English dictation so split words like "email" and "deal" stay together.
-- Improved the microphone check so the default microphone name is easier to understand.

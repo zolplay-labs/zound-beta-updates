@@ -1,0 +1,5 @@
+- Fixed Soniox realtime dictation so the warm connection is discarded before it can age past the provider's idle timeout, preventing the constant "Audio data decode timeout" failures after switching providers.
+- Fixed the dictation island so it matches the system appearance on macOS 26 — no more dark capsule with light text in Light Mode.
+- The error state now shows the actual failure message on hover, so you can see what went wrong without checking history.
+- Failed dictations now save their captured audio to Dictation History, so you can replay or re-transcribe them instead of losing the recording.
+- Dictation History is now fully localized in Simplified Chinese.
