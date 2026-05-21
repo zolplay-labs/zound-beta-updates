@@ -1,0 +1,3 @@
+- Added tag-style dictionary terms with paste parsing, so names, products, and domain phrases are easier to manage.
+- Improved Doubao and Soniox dictionary handling so important terms are sent as provider-friendly hotwords/context.
+- Localized the new dictionary controls and kept background context separate from the term list.
