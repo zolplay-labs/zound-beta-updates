@@ -1,0 +1,3 @@
+- Added a floating recording status island so recording, transcription, and system-audio states are easier to monitor while you work.
+- Added in-app toast notifications for recording, import, transcription, captions, dictation, activation, permissions, export, and account events.
+- Improved recording diagnostics and processed-audio validation so silent system audio, stalled capture, and invalid processed audio surface more clearly.
