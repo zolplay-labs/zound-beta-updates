@@ -1,0 +1,2 @@
+- Improved Soniox dictation accuracy by waiting for the final transcript on release and using the app language setting as a strict hint, reducing phantom word spacing.
+- Reduced noisy dictation warning reports so recoverable microphone callback stalls no longer appear as high-priority errors.
