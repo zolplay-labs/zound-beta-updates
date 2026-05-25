@@ -1,0 +1,3 @@
+- Added a Recording Island setting so you can choose whether the recording status island stays on the left or right screen edge.
+- Improved recording island dragging so it remembers vertical placement while staying pinned to the selected edge.
+- Localized more toast notification text and refined notification icons for clearer status updates.
