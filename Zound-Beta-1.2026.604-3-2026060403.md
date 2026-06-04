@@ -1,0 +1,2 @@
+- Improved meeting prompts so Zound can use active microphone input as a secondary signal for recently detected meetings.
+- Improved Google Meet detection for browser windows whose title starts with "Meet -".
