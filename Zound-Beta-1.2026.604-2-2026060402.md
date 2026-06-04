@@ -1,0 +1,2 @@
+- Added a meeting recording prompt that detects Zoom, FaceTime, Teams, and trusted Google Meet browser windows, so you can start recording from the island when a meeting appears active.
+- Added a General setting to turn meeting recording prompts off.

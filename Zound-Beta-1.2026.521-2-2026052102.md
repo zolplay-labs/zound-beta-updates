@@ -1,1 +1,0 @@
-- Fixed a microphone selection regression that could stop dictation and recording from starting after an unavailable external microphone was preserved in settings.

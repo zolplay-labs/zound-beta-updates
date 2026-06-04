@@ -1,3 +1,0 @@
-- Added Import Audio so you can bring existing audio files into Zound and transcribe them like new recordings.
-- Improved hold-to-talk dictation quality by sending captured dictation audio through the higher-quality backend transcription path, then cleaning up temporary and remote dictation recordings.
-- Reduced the dictation island hover timer size so the compact pill controls stay readable without crowding.
