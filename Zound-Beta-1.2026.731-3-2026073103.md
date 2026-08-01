@@ -1,0 +1,1 @@
+- Reissued the direct dictation beta after strengthening its signed install and update verification.
