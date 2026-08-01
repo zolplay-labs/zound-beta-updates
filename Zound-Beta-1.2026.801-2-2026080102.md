@@ -1,0 +1,3 @@
+- Made Dictation return results faster after the end key while preserving trailing speech from a held-key release.
+- Fixed the first Dictation after a break so an expired background connection starts fresh instead of showing a false submission error.
+- Simplified Dictation Connection diagnosis with a clear status and readable, copyable technical details.
