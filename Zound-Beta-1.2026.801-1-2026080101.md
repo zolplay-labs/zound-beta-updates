@@ -1,0 +1,3 @@
+- Improved Dictation reliability after idle and reduced delays on the first result.
+- Made the Dictation key restart from an error without requiring the island to be closed manually.
+- Kept Dictation failures contained to the island instead of also showing a large duplicate notification.
