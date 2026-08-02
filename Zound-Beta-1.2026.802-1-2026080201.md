@@ -1,0 +1,2 @@
+- Fixed the first Dictation after a longer break so an expired background session is replaced before audio is sent.
+- Improved Dictation recovery when connection setup and retry overlap.
