@@ -1,0 +1,1 @@
+- Fixed Dictation after idle so ending a recording safely waits for an active connection instead of interrupting before transcription starts.
