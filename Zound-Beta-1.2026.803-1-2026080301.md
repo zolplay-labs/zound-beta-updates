@@ -1,0 +1,4 @@
+- Made Dictation finish faster and more reliably after the end key by finalizing realtime transcription directly.
+- Improved rapid repeat Dictation and recovery while another result is finishing.
+- Simplified Dictation Connection status and replaced persistent errors with dismissing diagnostics that can be copied or reported.
+- Applied selected transcription languages as flexible hints while preserving multilingual detection.
