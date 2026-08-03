@@ -1,0 +1,3 @@
+- Fixed the first Dictation after idle so interrupted or expired connections no longer block the next attempt.
+- Improved Dictation recovery when connection setup is interrupted before transcription starts.
+- Made Sign Out stop active Dictation immediately while completing secure cleanup safely.
