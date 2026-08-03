@@ -1,0 +1,1 @@
+- Fixed Dictation sometimes failing on the first attempt after the app had been idle for several minutes.
