@@ -1,0 +1,2 @@
+- Fixed repeated Dictation interruptions after the app had been idle, including the first attempt after a break.
+- When enabled, completed Meeting Recording transcripts can now be delivered automatically to Dex, with safe retries and clear delivery status.
