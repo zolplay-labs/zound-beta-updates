@@ -1,0 +1,4 @@
+- Dictation now recovers reliably after the app has been idle, and finishing against a slow connection no longer interrupts the session.
+- Meeting transcription no longer fails when a brief service hiccup occurs while waiting for results.
+- Added Send to Dex: deliver any completed recording's transcript to Dex from the library.
+- Recordings now upload directly to secure storage, making large uploads faster and more reliable.
