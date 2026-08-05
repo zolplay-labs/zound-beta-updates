@@ -1,0 +1,1 @@
+- Dictation now stays ready for up to three minutes between uses, so results arrive in about a second after stopping — even following a break.
