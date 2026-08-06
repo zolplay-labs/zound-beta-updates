@@ -1,0 +1,2 @@
+- Dictation now shows text streaming in live as you speak.
+- If the transcription service stalls at the end of a dictation, you now receive the text that was already transcribed instead of an error.
