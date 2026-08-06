@@ -1,0 +1,3 @@
+- Stopping a dictation mid-sentence no longer cuts off the last words — the full sentence is transcribed before results are returned.
+- Dictation now checks that a kept-warm connection is actually healthy before using it, preventing interruptions from silently stalled connections.
+- The app now tells the server exactly how long it will wait when you stop, so results reliably arrive before the app moves on — even on slow networks.
