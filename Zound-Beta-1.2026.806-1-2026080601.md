@@ -1,0 +1,2 @@
+- Fixed a rare race where a dictation whose connection recovery had already timed out could still capture audio into an abandoned session.
+- Dictation recovery failures now surface immediately instead of occasionally stalling until the end of the dictation.
