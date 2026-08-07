@@ -1,0 +1,1 @@
+- Fixed kept-warm dictation connections being discarded on slower networks, which forced every dictation onto a slow fresh connection and could interrupt one started immediately after another.
