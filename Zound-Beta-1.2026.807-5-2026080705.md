@@ -1,0 +1,1 @@
+- Rapid back-to-back dictations no longer stop before recording begins when cleanup from the previous connection briefly fails.
