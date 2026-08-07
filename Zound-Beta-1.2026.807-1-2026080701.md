@@ -1,0 +1,2 @@
+- Dictation audio now uploads compressed (about a fifth of the data), keeping speech flowing smoothly on slow or congested networks.
+- The app now adapts how long it waits for final text to your actual network conditions, so slow connections no longer cause dictations to give up on results that were about to arrive.
