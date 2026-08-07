@@ -1,0 +1,1 @@
+- Starting a dictation immediately after finishing one no longer gets interrupted — the app now rides the connection already being prepared instead of discarding it.
