@@ -1,0 +1,1 @@
+- Fixed the microphone not picking up at the start of a dictation begun right after the previous one — recording now always starts immediately.
