@@ -1,0 +1,1 @@
+- Rapid back-to-back dictations now prepare the next connection while the current dictation is active, so short dictations return results much faster instead of waiting on a fresh connection.
