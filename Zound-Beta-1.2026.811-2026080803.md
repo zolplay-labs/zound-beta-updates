@@ -1,0 +1,3 @@
+- Fixed dictation occasionally pasting your previous clipboard contents instead of the transcribed text when the target app was slow to respond.
+- New experimental Live Preview Typing: watch your words appear in the app you're dictating into as you speak, with the final text taking their place when you finish. Off by default — enable it under Settings → Voice Dictation.
+- Back-to-back dictations no longer occasionally discard a healthy prepared connection, keeping the fast warm path reliable.
