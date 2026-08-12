@@ -1,0 +1,1 @@
+- Fixed microphones connected through 44.1 kHz audio interfaces going silent immediately after capture started.
