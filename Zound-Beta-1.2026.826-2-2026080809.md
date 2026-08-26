@@ -1,0 +1,1 @@
+- Meeting recordings now survive audio route changes: when connecting or disconnecting AirPods or another device briefly interrupts system audio, Zound bridges the gap with silence and keeps recording instead of stopping and preserving the file for recovery.
